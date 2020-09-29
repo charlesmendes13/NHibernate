@@ -1,0 +1,66 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01 - Presentation", "01 - Presentation", "{08FC9DE2-8A34-4F1D-B964-9A7328169E7D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04 - Domain", "04 - Domain", "{49764FFE-DD97-4B0F-B380-B6C3B90FDD24}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03 - Application", "03 - Application", "{6564DC49-F4C2-4134-A0DF-AE3DABCF40A1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02 - Services", "02 - Services", "{637FA183-85D6-43E6-9980-04815D041BC1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05 - Infrastructure", "05 - Infrastructure", "{207C04CB-1001-4B9C-B231-23037676CF93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NHibernate.Domain", "src\NHibernate.Domain\NHibernate.Domain.csproj", "{A6C4FA48-0E1C-4DE5-A9A7-1B50AC96A1FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NHibernate.Application", "src\NHibernate.Application\NHibernate.Application.csproj", "{05787B6C-5CB3-4DBF-846B-6E922F9E1FCF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NHibernate.Infrastructure.Data", "src\NHibernate.Infrastructure.Data\NHibernate.Infrastructure.Data.csproj", "{874577C9-8E37-42F6-B60E-BF81622B9DB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NHibernate.Infrastructure.IoC", "src\NHibernate.Infrastructure.IoC\NHibernate.Infrastructure.IoC.csproj", "{F2125CC3-7D95-442C-B046-58B0C531AEA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NHibernate.Web", "src\NHibernate.Web\NHibernate.Web.csproj", "{EC9CAF56-D48B-4CA1-9E0F-0CDF33AD52F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6C4FA48-0E1C-4DE5-A9A7-1B50AC96A1FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6C4FA48-0E1C-4DE5-A9A7-1B50AC96A1FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6C4FA48-0E1C-4DE5-A9A7-1B50AC96A1FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6C4FA48-0E1C-4DE5-A9A7-1B50AC96A1FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05787B6C-5CB3-4DBF-846B-6E922F9E1FCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05787B6C-5CB3-4DBF-846B-6E922F9E1FCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05787B6C-5CB3-4DBF-846B-6E922F9E1FCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05787B6C-5CB3-4DBF-846B-6E922F9E1FCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{874577C9-8E37-42F6-B60E-BF81622B9DB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{874577C9-8E37-42F6-B60E-BF81622B9DB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{874577C9-8E37-42F6-B60E-BF81622B9DB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{874577C9-8E37-42F6-B60E-BF81622B9DB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2125CC3-7D95-442C-B046-58B0C531AEA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2125CC3-7D95-442C-B046-58B0C531AEA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2125CC3-7D95-442C-B046-58B0C531AEA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2125CC3-7D95-442C-B046-58B0C531AEA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC9CAF56-D48B-4CA1-9E0F-0CDF33AD52F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC9CAF56-D48B-4CA1-9E0F-0CDF33AD52F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC9CAF56-D48B-4CA1-9E0F-0CDF33AD52F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC9CAF56-D48B-4CA1-9E0F-0CDF33AD52F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A6C4FA48-0E1C-4DE5-A9A7-1B50AC96A1FE} = {49764FFE-DD97-4B0F-B380-B6C3B90FDD24}
+		{05787B6C-5CB3-4DBF-846B-6E922F9E1FCF} = {6564DC49-F4C2-4134-A0DF-AE3DABCF40A1}
+		{874577C9-8E37-42F6-B60E-BF81622B9DB6} = {207C04CB-1001-4B9C-B231-23037676CF93}
+		{F2125CC3-7D95-442C-B046-58B0C531AEA1} = {207C04CB-1001-4B9C-B231-23037676CF93}
+		{EC9CAF56-D48B-4CA1-9E0F-0CDF33AD52F0} = {08FC9DE2-8A34-4F1D-B964-9A7328169E7D}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F1EA594-FAEE-42C6-94B3-CD698A3C3006}
+	EndGlobalSection
+EndGlobal

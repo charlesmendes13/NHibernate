@@ -1,0 +1,6 @@
+D:\Visual Studio\NHibernate\src\NHibernate.Domain\bin\Debug\NHibernate.Domain.dll
+D:\Visual Studio\NHibernate\src\NHibernate.Domain\bin\Debug\NHibernate.Domain.pdb
+D:\Visual Studio\NHibernate\src\NHibernate.Domain\obj\Debug\NHibernate.Domain.csprojAssemblyReference.cache
+D:\Visual Studio\NHibernate\src\NHibernate.Domain\obj\Debug\NHibernate.Domain.csproj.CoreCompileInputs.cache
+D:\Visual Studio\NHibernate\src\NHibernate.Domain\obj\Debug\NHibernate.Domain.dll
+D:\Visual Studio\NHibernate\src\NHibernate.Domain\obj\Debug\NHibernate.Domain.pdb

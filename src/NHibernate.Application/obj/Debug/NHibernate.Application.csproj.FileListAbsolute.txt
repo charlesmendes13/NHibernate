@@ -1,0 +1,14 @@
+D:\Visual Studio\NHibernate\src\NHibernate.Application\bin\Debug\NHibernate.Application.dll
+D:\Visual Studio\NHibernate\src\NHibernate.Application\bin\Debug\NHibernate.Application.pdb
+D:\Visual Studio\NHibernate\src\NHibernate.Application\bin\Debug\AutoMapper.dll
+D:\Visual Studio\NHibernate\src\NHibernate.Application\bin\Debug\NHibernate.Domain.dll
+D:\Visual Studio\NHibernate\src\NHibernate.Application\bin\Debug\System.ValueTuple.dll
+D:\Visual Studio\NHibernate\src\NHibernate.Application\bin\Debug\NHibernate.Domain.pdb
+D:\Visual Studio\NHibernate\src\NHibernate.Application\bin\Debug\AutoMapper.pdb
+D:\Visual Studio\NHibernate\src\NHibernate.Application\bin\Debug\AutoMapper.xml
+D:\Visual Studio\NHibernate\src\NHibernate.Application\bin\Debug\System.ValueTuple.xml
+D:\Visual Studio\NHibernate\src\NHibernate.Application\obj\Debug\NHibernate.Application.csprojAssemblyReference.cache
+D:\Visual Studio\NHibernate\src\NHibernate.Application\obj\Debug\NHibernate.Application.csproj.CoreCompileInputs.cache
+D:\Visual Studio\NHibernate\src\NHibernate.Application\obj\Debug\NHibernate.Application.csproj.CopyComplete
+D:\Visual Studio\NHibernate\src\NHibernate.Application\obj\Debug\NHibernate.Application.dll
+D:\Visual Studio\NHibernate\src\NHibernate.Application\obj\Debug\NHibernate.Application.pdb

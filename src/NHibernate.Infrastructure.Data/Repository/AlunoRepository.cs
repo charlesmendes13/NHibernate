@@ -5,9 +5,5 @@ namespace NHibernate.Infrastructure.Data.Repository
 {
     public class AlunoRepository : RepositoryBase<Aluno>, IAlunoRepository
     {
-        public AlunoRepository()
-        {
-
-        }
     }
 }

@@ -30,7 +30,7 @@ namespace NHibernate.Application.ViewModel
         [Display(Name = "Curso")]
         public string Curso { get; set; }
 
-        [Required]
+        [EnumDataType(typeof(Sexo), ErrorMessage = "Selecione um Sexo válido")]
         [Display(Name = "Sexo")]
         public Sexo Sexo { get; set; }
     }
